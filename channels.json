@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Dangal 2",
+    "url": "https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_360p/chunks.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Dangal+2"
+  },
+  {
+    "name": "Dangal",
+    "url": "https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_360p/chunks.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Dangal"
+  },
+  {
+    "name": "Baby Shark TV",
+    "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Baby+Shark+TV"
+  },
+  {
+    "name": "Cartoon Network",
+    "url": "https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Cartoon+Network"
+  },
+  {
+    "name": "MiniMax",
+    "url": "https://s2.ideationtec.live/MiniMax/MiniMax.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=MiniMax"
+  },
+  {
+    "name": "Brat TV",
+    "url": "https://brat-samsung-us.amagi.tv/360p-vtt/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Brat+TV"
+  },
+  {
+    "name": "Balle Balle TV",
+    "url": "https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Balle+Balle+TV"
+  },
+  {
+    "name": "Tango TV",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Tango+TV"
+  },
+  {
+    "name": "Colors Audio Dev",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsaudev.smil/chunklist_b896000.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Colors+Audio+Dev"
+  },
+  {
+    "name": "DD National HD",
+    "url": "https://streams.tangotv.in/DDNATIONALHD/ORIGIN/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=DD+National+HD"
+  },
+  {
+    "name": "Desi Channel",
+    "url": "https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Desi+Channel"
+  },
+  {
+    "name": "Discovery HD",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Discovery+HD"
+  },
+  {
+    "name": "M18",
+    "url": "https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=M18"
+  },
+  {
+    "name": "Pishow Channel 1474",
+    "url": "https://cdn.pishow.tv/ott/live/1474/master.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Pishow+1474"
+  },
+  {
+    "name": "Pishow Channel 13",
+    "url": "https://cdn.pishow.tv/ott/live/13/master.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Pishow+13"
+  },
+  {
+    "name": "Pishow Channel 15",
+    "url": "https://cdn.pishow.tv/ott/live/15/master.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Pishow+15"
+  },
+  {
+    "name": "Manoranjan TV",
+    "url": "https://streams.tangotv.in/MANORANJANTV/ORIGIN/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Manoranjan+TV"
+  },
+  {
+    "name": "Cloudfront Channel",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Cloudfront+Channel"
+  },
+  {
+    "name": "Shemaroo TV",
+    "url": "https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/chunklist_b1628000_sleng.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Shemaroo+TV"
+  },
+  {
+    "name": "Shemaroo Umang",
+    "url": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/chunklist_b1628000_sleng.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Shemaroo+Umang"
+  },
+  {
+    "name": "Sony HD",
+    "url": "http://38.96.178.205/SONYHD/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Sony+HD"
+  },
+  {
+    "name": "Sub HD",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Sub+HD"
+  },
+  {
+    "name": "Zee TV",
+    "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Zee+TV"
+  },
+  {
+    "name": "All Time Movies",
+    "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=All+Time+Movies"
+  },
+  {
+    "name": "Samsung AndTV HLS",
+    "url": "https://3f56f997.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/31a01223-511d-4f57-b03c-ad91732a62bd/1.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Samsung+AndTV"
+  },
+  {
+    "name": "Pishow Channel 227",
+    "url": "https://cdn.pishow.tv/ott/live/227/master.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Pishow+227"
+  },
+  {
+    "name": "Pishow Channel 419",
+    "url": "https://cdn.pishow.tv/ott/live/419/master.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Pishow+419"
+  },
+  {
+    "name": "Rishtey Cineplex UK",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b696000.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Rishtey+Cineplex+UK"
+  },
+  {
+    "name": "Goldmines",
+    "url": "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Goldmines"
+  },
+  {
+    "name": "Goldmines 2",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Goldmines+2"
+  },
+  {
+    "name": "Goldmines Action",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Goldmines+Action"
+  },
+  {
+    "name": "Channel a00x",
+    "url": "http://103.151.60.162:2122/play/a00x/index.m3u8?hls",
+    "image": "https://via.placeholder.com/300x200?text=Channel+a00x"
+  },
+  {
+    "name": "Manoranjan Grand",
+    "url": "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Manoranjan+Grand"
+  },
+  {
+    "name": "Manoranjan Movies",
+    "url": "https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Manoranjan+Movies"
+  },
+  {
+    "name": "Mhone Movie",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Mhone+Movie"
+  },
+  {
+    "name": "Pitaara TV Live",
+    "url": "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Pitaara+TV"
+  },
+  {
+    "name": "Channel a01v",
+    "url": "http://103.151.60.162:2122/play/a01v/49277389.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Channel+a01v"
+  },
+  {
+    "name": "Zee Cinema APAC HD",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b896000.m3u8",
+    "image": "https://via.placeholder.com/300x200?text=Zee+Cinema+APAC+HD"
+  }
+]
