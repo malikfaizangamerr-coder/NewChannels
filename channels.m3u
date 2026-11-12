@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Dangal+2",Dangal 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK663feAIiQlGjTWpQELqz9Zwwmije514qCtdwsB1uBw&s=10",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_360p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Dangal",Dangal
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfY3xyYqfVvFfnLdvri7ssBXF01K9-ScGFB2YmCg8hBQ&s=10",Dangal
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Baby+Shark+TV",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
