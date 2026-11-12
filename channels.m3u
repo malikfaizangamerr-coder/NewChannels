@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSou4xxXmBXZvy0eeHd2C4nYe0ML2nA8Qw-95_vx0B9pg&s=10",Skysports Cricket
-https://api.touchcric.vip/refer/play.php?id=324
+https://live.msnetworks.net/a-sports/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvjODgBpFYRPJbzcGUPyyZ1TjWL5GHa8c3UQ-nQZ6OZg4SEOdgKkAae4&s=10",Willow Sports
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVW8QpF8lfil5p8ngqB99fbeTwKGkVUZccqQ70cGINjVe8JzewxaKyLcR1&s=10", Ptvsports
