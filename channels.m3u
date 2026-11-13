@@ -1,13 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSou4xxXmBXZvy0eeHd2C4nYe0ML2nA8Qw-95_vx0B9pg&s=10",Skysports Cricket
-https://live.msnetworks.net/a-sports/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvjODgBpFYRPJbzcGUPyyZ1TjWL5GHa8c3UQ-nQZ6OZg4SEOdgKkAae4&s=10",Willow Sports
-https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVW8QpF8lfil5p8ngqB99fbeTwKGkVUZccqQ70cGINjVe8JzewxaKyLcR1&s=10", Ptvsports
+#EXTINF:-1 tvg-id="PTVSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWVkfBnWVQ61xY_iSRahEDrTtbVNjNEDLJjYeC3ds3A&s=10" group-title="Sports",PTV Sports
 https://live.msnetworks.net/ptv-sports/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK663feAIiQlGjTWpQELqz9Zwwmije514qCtdwsB1uBw&s=10",Dangal 2
-https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_360p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfY3xyYqfVvFfnLdvri7ssBXF01K9-ScGFB2YmCg8hBQ&s=10",Dangal
+#EXTINF:-1 tvg-id="TenSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcllJX0HyYWHE6duR4E1Nhv5GOcX6V9XMdYwfYHKSNhsWoJpN6XAnnAnZ_&s=10" group-title="Sports",Ten Sports
+https://live.msnetworks.net/ten-sports/master.m3u8
+#EXTINF:-1 tvg-id="ASports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDzwXhJRhcruGRSW5oSYIquKQi25ug5SdzhpgBAOnRQ&s=10" group-title="Sports",A Sports
+https://live.msnetworks.net/a-sports/master.m3u8
+#EXTINF:-1 tvg-id="WillowSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ADpPgYsK82_-XsDmrr9fHBwbIqdU6KUayGlpGzG2ig&s=10" group-title="Sports",Willow Sports
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="WillowSports2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCvbffBmYO4B5jbGu5LPY6iFHS35VT0_ZieLH-Nm5DuQ&s=10" group-title="Sports",Willow Sports 2
+https://tvsen7.aynaott.com/Sports1/index.m3u8
+#EXTINF:-1 tvg-id="TSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEt0mLEbCc7_nwOltfVTtRh95_ytannxqgaeskHI0rfCxd85v3LSaeZ4&s=10" group-title="Sports",T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+#EXTINF:-1 tvg-id="TSports2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEt0mLEbCc7_nwOltfVTtRh95_ytannxqgaeskHI0rfCxd85v3LSaeZ4&s=10" group-title="Sports",T Sports 2
+https://playztv-apps.pages.dev/ptv-sports/index.m3u8#skym3u.dev#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfY3xyYqfVvFfnLdvri7ssBXF01K9-ScGFB2YmCg8hBQ&s=10",Dangal
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Baby+Shark+TV",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
