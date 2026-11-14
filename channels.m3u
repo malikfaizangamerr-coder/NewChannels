@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="9xm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2SBlWzT6t5FRfX-j8BO0m1QEDbP0mQQr7vcEvObsVg&s=10" group-title="Music",9xm Music
+https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="PTVSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWVkfBnWVQ61xY_iSRahEDrTtbVNjNEDLJjYeC3ds3A&s=10" group-title="Sports",PTV Sports
 https://live.msnetworks.net/ptv-sports/master.m3u8
 #EXTINF:-1 tvg-id="TenSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcllJX0HyYWHE6duR4E1Nhv5GOcX6V9XMdYwfYHKSNhsWoJpN6XAnnAnZ_&s=10" group-title="Sports",Ten Sports
