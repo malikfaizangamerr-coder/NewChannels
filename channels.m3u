@@ -88,3 +88,17 @@ https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413
 http://103.114.11.37:8081/Star-Plus-HD/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ2AnZvDZ7JpO6XIemMQwxuPkMujNV_leMoN2n8xu51A&s=10",Zee Cinema Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b896000.m3u8
+#EXTINF:-1 tvg-id="hungamakids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFP63-xpmAbHAteQeLdQT7vKNgkeVfM4OS320z84L_Q&s=10" group-title="Kids",Hungama Kids
+https://cc-j2qrmdlg5y7lg.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/efe8829c-27f2-448c-8e09-db05e8b5be39/3.m3u8
+#EXTINF:-1 tvg-id="9xmjalwa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSck6k4VFVnI4TObcFyH4bOwwStAnhfUGhwpcCzwUewLw&s=10" group-title="Music",9XM Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 tvg-id="wowkids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbiTxAMqlfPm9eWDRmg4sPHeYZdsdE4VIQorabfbv0Ng&s=10" group-title="Kids",Wow Kids
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/hdntl=exp=1794740744~acl=/*~data=hdntl~hmac=255c013f09ce678227f32d29f2afa305d9d44cd341264437227faf70db3f07ba/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="junglebook" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-4cq8zPhnqE9VLcoyuvoX4U9eH_5qJiRdbb_r9qqr-A&s=10" group-title="Kids",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-id="greengoldkids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZxJDgy3qohtjSSr3Fgg1F9ynZTHsgPmqiJW_08jy0Lw&s=10" group-title="Kids",Green Gold Kids
+https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8
+#EXTINF:-1 tvg-id="9xmjhakas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2imT5TGlUKvjyw6zHRNYYBPrDddGE8RkrlOC4naeNww&s=10" group-title="Music",9XM Jhakas
+https://wiselp.wiseplayout.com/9X_Jhakaas/HD720/HD720.m3u8
+#EXTINF:-1 tvg-id="hindihits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfxrtoRlGuEparmwxmQRVlSZF-ZguTJZB2dwz3F2u3eA&s=10" group-title="Music",Hindi Hits
+https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/tracks-v1a1/mono.m3u8
