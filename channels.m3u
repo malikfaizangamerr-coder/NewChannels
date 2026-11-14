@@ -48,41 +48,41 @@ https://cdn.pishow.tv/ott/live/15/master.m3u8
 https://streams.tangotv.in/MANORANJANTV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQatwhDDEsUes8DsDPIXiBc9T5WEpsdNNYXoCFgYmwesg&s=10",PTC Punjab Entertainment
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Shemaroo+TV",Shemaroo TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWtJP-oXOCsNQmZ5EL7tYUE8dSOyiyElkBlRtKKj3JCw&s=10",Shemaroo TV Entertainment
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/chunklist_b1628000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Shemaroo+Umang",Shemaroo Umang
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmA4GnIPFWfDGu7xMS7hI3S4yUYfYv2nAlZVgmIX8jgg&s=10",Shemaroo Umang Entertainment
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/chunklist_b1628000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Sony+HD",Sony HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR5MnVdk6dTtZhUiB-cf_LFP7n6-QDXql2okqxpnYcpw&s=10",Sony Entertainment
 http://38.96.178.205/SONYHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Sub+HD",Sub HD
-https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Zee+TV",Zee TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCjAm7eH0QyVnu7oOUMbmq23b4KZXMqXbU9c1STHBCg&s=10",India Music
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ZrjSW_qDfF9QPc6CJDU_B4l3I3_QGUWp8PnWyBZ4Mg&s=10",Zee TV Entertainment
 http://41.205.93.154/ZEE-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=All+Time+Movies",All Time Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYcFtSngt8UB0QZv-DYdlUPp_JKZaIJGMppg&s.jpg",All Time Movies
 https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Samsung+AndTV",Samsung AndTV HLS
-https://3f56f997.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/31a01223-511d-4f57-b03c-ad91732a62bd/1.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Pishow+227",Pishow Channel 227
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpkFWdHuKvmgoUj2ewWzlxSBxf8VsA32BGreIsuP1Ug&s=10",B4u Music
+https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCfk8jt1xWEpiMVlPL6N6hLn3u6dxcNxLERjZ4newAbw&s=10",B4u Kadak Movies
 https://cdn.pishow.tv/ott/live/227/master.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Pishow+419",Pishow Channel 419
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlPB6G2WpciTN1fQX2j_jED0iVRF3SSh1kIa8AkAN9vA&s=10",B4u Movies
 https://cdn.pishow.tv/ott/live/419/master.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Rishtey+Cineplex+UK",Rishtey Cineplex UK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcYfX4o9rNwm9rcDHEuoI8CDtkgO4kjzVVtof_g3JUXQ&s=10",Rishtey Cineplex Movies
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b696000.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Goldmines",Goldmines
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyET5ASHpc0Bs7V6EBms-7iRsk3cLH4Cl4aLnbbTirsg&s=10",Goldmines Movies
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Goldmines+2",Goldmines 2
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/119323-goldminespic.jpg",Goldmines2 Movies
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Goldmines+Action",Goldmines Action
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkB7zIyFZBfm7EPr5S3dSVIeAxSqStjPjkRqV2YkGyAcFVrP1hTQXK_aw&s=10",Goldmines Action Movies
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Channel+a00x",Channel a00x
-http://103.151.60.162:2122/play/a00x/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Manoranjan+Grand",Manoranjan Grand
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlPB6G2WpciTN1fQX2j_jED0iVRF3SSh1kIa8AkAN9vA&s=10",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy0JqQv2mV9xsVldcY_9Sup2d4lpcdEvKzNsgJzqR9cg&s=10",Manoranjan Grand Movies
 https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Manoranjan+Movies",Manoranjan Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSuyShe3pMqgM72xZYRrqmjqIImTICNSJmmfFCwEooDQ&s=10",Manoranjan Movies
 https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Mhone+Movie",Mhone Movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpkq9j_RwC0fNVqqqEr0P79GxzXSD2eqDWlKobS1Qvg&s=10",Mhone Movie
 https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x200?text=Pitaara+TV",Pitaara TV Live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMalg1ELxydBQc6yh_UdNN4cDFAr_8oQ_8Vy-CSnXs8Q&s=10",PitaaraTv Movies
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPD-zQN0J9RfFRcaRC_p0XcENjRnvmDE_T3HtNcmB-C3LBbF_4IapUsu0&s=10",StarPlus Entertainment
 http://103.114.11.37:8081/Star-Plus-HD/index.m3u8?token=sboxcast
