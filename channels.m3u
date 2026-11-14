@@ -92,8 +92,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklis
 https://cc-j2qrmdlg5y7lg.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/efe8829c-27f2-448c-8e09-db05e8b5be39/3.m3u8
 #EXTINF:-1 tvg-id="9xmjalwa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSck6k4VFVnI4TObcFyH4bOwwStAnhfUGhwpcCzwUewLw&s=10" group-title="Music",9XM Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-#EXTINF:-1 tvg-id="wowkids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbiTxAMqlfPm9eWDRmg4sPHeYZdsdE4VIQorabfbv0Ng&s=10" group-title="Kids",Wow Kids
-https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/hdntl=exp=1794740744~acl=/*~data=hdntl~hmac=255c013f09ce678227f32d29f2afa305d9d44cd341264437227faf70db3f07ba/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="BollywoodHDMovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZIabAmj_Sf1ZTfgzD5I2AaFadvqLimT9__PUdq0OAw&s=10" group-title="Movies",BollywoodHD Movies
+https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
 #EXTINF:-1 tvg-id="junglebook" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-4cq8zPhnqE9VLcoyuvoX4U9eH_5qJiRdbb_r9qqr-A&s=10" group-title="Kids",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-id="greengoldkids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZxJDgy3qohtjSSr3Fgg1F9ynZTHsgPmqiJW_08jy0Lw&s=10" group-title="Kids",Green Gold Kids
