@@ -42,6 +42,8 @@ https://live.msnetworks.net/ten-sports/master.m3u8
 #EXTINF:-1 tvg-id="ASports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDzwXhJRhcruGRSW5oSYIquKQi25ug5SdzhpgBAOnRQ&s=10" group-title="Sports",A Sports
 https://live.msnetworks.net/a-sports/master.m3u8
 #EXTINF:-1 tvg-id="WillowSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ADpPgYsK82_-XsDmrr9fHBwbIqdU6KUayGlpGzG2ig&s=10" group-title="Sports",Willow Sports
+https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
+#EXTINF:-1 tvg-id="WillowSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ADpPgYsK82_-XsDmrr9fHBwbIqdU6KUayGlpGzG2ig&s=10" group-title="Sports",Willow Sports
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="WillowSports2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCvbffBmYO4B5jbGu5LPY6iFHS35VT0_ZieLH-Nm5DuQ&s=10" group-title="Sports",Willow Sports 2
 https://tvsen7.aynaott.com/Sports1/index.m3u8
