@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="9xmtashan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzOzpxzFvk2lhQFck6JIGMQuCjSdhpxvurUvDAGo7Rw&s=10" group-title="Music",9xm Tashan
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+
+#EXTINF:-1 tvg-id="ddnews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2AofUP0KUhKALsAM9-hkNwMsyOkL5naYzRQkUpaU8DeqOsTU-_vf7YI&s=10" group-title="News",DD News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+
+#EXTINF:-1 tvg-id="epicmusic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Epic-Music.png" group-title="Music",Epic Music
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="goldminesbollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLEopStsg-jpJdXcQWBfaHdXH1RyiGOQUxm3n1vXh83hWdujOeuMVDJys&s=10" group-title="Movies",Goldmines Bollywood Movies
+https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="punjabimovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJ2-5Hp1MrsMRNlxy7SJn8Ark40gu401_edO8k2C-5RX3MrA7pxSaqSKa&s=10" group-title="Movies",Punjabi Movies
+https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8
+
+#EXTINF:-1 tvg-id="punjabimusic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyWSS3krKtU7bBpvx_RFCgNp1SIZloxz3rf7hgs3Wvg2fZwC5aJkj7TRy1&s=10" group-title="Music",Punjabi Music
+https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="shemaroojosh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs1uxbuuUJyNK69QjNO0gs9-dRlbQ7dqvhDJOhZrx2pQ&s=10" group-title="Entertainment",Sheemaroo Josh Entertainment
+https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
+
+#EXTINF:-1 tvg-id="24news" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwKkdvV3MPir7CITtP1H2-XZ-rmy3lwp-BoYcy1ovmxIDXK2EIm0ATZJM&s=10" group-title="News",24 news
+https://live.msnetworks.net/24-news/master.m3u8
+
+#EXTINF:-1 tvg-id="360news" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSngxGRPZaj6fDeKiZdJ3Dk79cRApzBsLyaUm2N8k9dUA&s=10" group-title="News",360 News
+https://live.msnetworks.net/365-news/master.m3u8
+
+#EXTINF:-1 tvg-id="92news" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-PNljrZaiG-erAkxrarsylx_Ppl5RosLo5s0jxC0pgc1WfpkWLSW5c_bV&s=10" group-title="News",92 News
+https://live.msnetworks.net/92-news/master.m3u8
+
+#EXTINF:-1 tvg-id="arynews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4aTyPt0J9YPOHA-QXYrNZr5JHiA9Erd5KAw6N6S0wDHDUO5kF9BwnURs&s=10" group-title="News",ary news
+https://live.msnetworks.net/ary-news/master.m3u8
 #EXTINF:-1 tvg-id="HumTv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz9dLv2AArHn9AjOX013wwbtPQXhGuOiK6SxctPyMTHA&s=10" group-title="Music",Yrf Music
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="9xm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2SBlWzT6t5FRfX-j8BO0m1QEDbP0mQQr7vcEvObsVg&s=10" group-title="Music",9xm Music
