@@ -45,6 +45,8 @@ https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xia
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="PTVSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dAaL-v6CNP7Sllss255a-ZhtqzGh2Qw__3JSiBQqCw&s=10" group-title="Sports",Star Sports
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+#EXTINF:-1 tvg-id="PTVSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCIvhWfI86sQMECl6WLYjI2niVmRJ8DJ2jT1mhTqr0w&s=10" group-title="Sports",Ptv Sports
+https://live.msnetworks.net/ptv-sports/master.m3u8
 #EXTINF:-1 tvg-id="TenSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcllJX0HyYWHE6duR4E1Nhv5GOcX6V9XMdYwfYHKSNhsWoJpN6XAnnAnZ_&s=10" group-title="Sports",Ten Sports
 https://live.msnetworks.net/ten-sports/master.m3u8
 #EXTINF:-1 tvg-id="ASports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDzwXhJRhcruGRSW5oSYIquKQi25ug5SdzhpgBAOnRQ&s=10" group-title="Sports",A Sports
