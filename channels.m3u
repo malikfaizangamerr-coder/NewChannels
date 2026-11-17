@@ -30,8 +30,12 @@ https://live.msnetworks.net/24-news/master.m3u8
 #EXTINF:-1 tvg-id="360news" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSngxGRPZaj6fDeKiZdJ3Dk79cRApzBsLyaUm2N8k9dUA&s=10" group-title="News",360 News
 https://live.msnetworks.net/365-news/master.m3u8
 
-#EXTINF:-1 tvg-id="92news" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-PNljrZaiG-erAkxrarsylx_Ppl5RosLo5s0jxC0pgc1WfpkWLSW5c_bV&s=10" group-title="News",92 News
+#EXTINF:-1 tvg-id="8xmMusic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kic0YHJvYxhQzsewRNEapr9mMAI1JAfXGCy05XzwrQ&s=10" group-title="Music",8xm Music
 https://www.mjunoon.tv/embedplayer/8xm-live
+#EXTINF:-1 tvg-id="JalwaMusic" tvg-logo="https://www.mjunoon.tv/uploads/categories/d29cd9bcdc3d594.png" group-title="Music",Jalwa Music
+https://www.mjunoon.tv/embedplayer/jalwa-tv-live
+#EXTINF:-1 tvg-id="Apna" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyzISy1E29WuGq0a7QM8XviQxp1qQBOA3brKE2CLkvx18EDxae_l94uGvd&s=10" group-title="Entertainment",Apna
+https://www.mjunoon.tv/embedplayer/apna-tv-live
 
 #EXTINF:-1 tvg-id="arynews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4aTyPt0J9YPOHA-QXYrNZr5JHiA9Erd5KAw6N6S0wDHDUO5kF9BwnURs&s=10" group-title="News",ary news
 https://live.msnetworks.net/ary-news/master.m3u8
