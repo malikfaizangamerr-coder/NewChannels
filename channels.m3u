@@ -31,7 +31,7 @@ https://live.msnetworks.net/24-news/master.m3u8
 https://live.msnetworks.net/365-news/master.m3u8
 
 #EXTINF:-1 tvg-id="92news" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-PNljrZaiG-erAkxrarsylx_Ppl5RosLo5s0jxC0pgc1WfpkWLSW5c_bV&s=10" group-title="News",92 News
-https://live.msnetworks.net/92-news/master.m3u8
+https://www.mjunoon.tv/embedplayer/8xm-live
 
 #EXTINF:-1 tvg-id="arynews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4aTyPt0J9YPOHA-QXYrNZr5JHiA9Erd5KAw6N6S0wDHDUO5kF9BwnURs&s=10" group-title="News",ary news
 https://live.msnetworks.net/ary-news/master.m3u8
